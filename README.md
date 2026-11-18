@@ -6,7 +6,7 @@
 <!-- Optional: add badges here (build status, license, version, etc.) -->
 <!-- ![License](https://img.shields.io/badge/license-MIT-blue) -->
 
-**Maintained by:** NiH (Nerds in Halifax) / HCC (Halifax Card Committee)
+**Maintained by:** Halifax Card Committee Dev Team
 
 ---
 
@@ -82,7 +82,7 @@ example-prerequisite
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone [https://github.com/your-username/your-repo.git](https://github.com/joshuaheath/HCC-MOBI-FinalProject)
    ```
 2. Navigate into the project folder
    ```sh
@@ -134,7 +134,7 @@ your-repo/
 
 <!-- Track planned features and progress. -->
 
-- [x] Initial idea and planning
+- [ ] Initial idea and planning
 - [ ] Feature 1
 - [ ] Feature 2
 - [ ] Feature 3
