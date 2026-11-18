@@ -169,10 +169,10 @@ Distributed under the XXX License. See [`LICENSE`](LICENSE) for more information
 
 ## Contact
 
-**NiH (Nerds in Halifax) / HCC (Halifax Card Committee)**
+**HCC (Halifax Card Committee)**
 
-- Email: your-email@example.com
-- Project Link: [https://github.com/your-username/your-repo](https://github.com/your-username/your-repo)
+- Email: GameFHeath@Gamil.com (Project Manager)
+- Project Link: [https://github.com/joshuaheath/HCC-MOBI-FinalProject](https://github.com/joshuaheath/HCC-MOBI-FinalProject)
 
 ---
 
