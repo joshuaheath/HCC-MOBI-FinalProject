@@ -169,7 +169,7 @@ Distributed under the XXX License. See [`LICENSE`](LICENSE) for more information
 
 ## Contact
 
-**HCC (Halifax Card Committee)**
+**'Halifax Card Committee' Dev Team**
 
 - Email: GameFHeath@Gamil.com (Project Manager)
 - Email: W0524166@campus.nscc.ca (Graphic Designer)
