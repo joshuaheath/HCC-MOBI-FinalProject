@@ -171,23 +171,23 @@ Distributed under the XXX License. See [`LICENSE`](LICENSE) for more information
 
 **'Halifax Card Committee' Dev Team**
 
-Developer Name: Joshua Heath (Project Manager)
-- Email: GameFHeath@Gamil.com
-- Github: https://github.com/joshuaheath
+Developer Name: **Joshua Heath** (Project Manager)
+- Email: GameFHeath@Gmail.com
+- Github: [https://github.com/joshuaheath]
 
-Developer Name: Kamali (Graphic Designer)
+Developer Name: **Kamali** (Graphic Designer)
 - Email: W0524166@campus.nscc.ca
 - Github: TODO
 
-Developer Name: Jason
+Developer Name: **Jason**
 - Email: TODO
 - Github: TODO
 
-Developer Name: Zachary
+Developer Name: **Zachary**
 - Email: TODO
 - Github: TODO
 
-Developer Name: Kiera
+Developer Name: **Kiera**
 - Email: TODO
 - Github: TODO
 
