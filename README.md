@@ -191,7 +191,6 @@ Developer Name: **Kiera** (TBD)
 - Email: TODO
 - Github: TODO
 
-- Project Link: [https://github.com/joshuaheath/HCC-MOBI-FinalProject](https://github.com/joshuaheath/HCC-MOBI-FinalProject)
 ---
 
 ## Acknowledgments
