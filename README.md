@@ -53,7 +53,6 @@ Trading card game (TCG) players often struggle to find local shops that stock th
 - Feature 1
 - Feature 2
 - Feature 3
-
 ---
 
 ## Who Is This For?
