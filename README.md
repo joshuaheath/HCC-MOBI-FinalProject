@@ -171,9 +171,25 @@ Distributed under the XXX License. See [`LICENSE`](LICENSE) for more information
 
 **'Halifax Card Committee' Dev Team**
 
-- Email: GameFHeath@Gamil.com (Project Manager)
-- Email: W0524166@campus.nscc.ca (Graphic Designer)
-- Project Link: [https://github.com/joshuaheath/HCC-MOBI-FinalProject](https://github.com/joshuaheath/HCC-MOBI-FinalProject)
+Developer Name: **Joshua Heath** (Project Manager)
+- Email: GameFHeath@Gmail.com
+- Github: [https://github.com/joshuaheath](JoshuaH-Profile)
+
+Developer Name: **Kamali** (Graphic Designer)
+- Email: W0524166@campus.nscc.ca
+- Github: TODO
+
+Developer Name: **Jason** (TBD)
+- Email: TODO
+- Github: TODO
+
+Developer Name: **Zachary** (TBD)
+- Email: TODO
+- Github: TODO
+
+Developer Name: **Kiera** (TBD)
+- Email: TODO
+- Github: TODO
 
 ---
 
