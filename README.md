@@ -179,9 +179,9 @@ Developer Name: **Kamali Thomas** (Graphic Designer)
 - Email: W0524166@campus.nscc.ca
 - Github: [https://github.com/T-T-Thomas](T-T-Thomas-Profile)
 
-Developer Name: **Jason** (TBD)
-- Email: TODO
-- Github: TODO
+Developer Name: **Jason McKenna** (TBD)
+- Email: W0496122@campus.nscc.ca
+- Github: [https://github.com/XCdAVtA](XCdAVtA-Profile)
 
 Developer Name: **Zachary** (TBD)
 - Email: TODO
