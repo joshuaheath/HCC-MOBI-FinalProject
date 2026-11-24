@@ -175,9 +175,9 @@ Developer Name: **Joshua Heath** (Project Manager)
 - Email: GameFHeath@Gmail.com
 - Github: [https://github.com/joshuaheath](JoshuaH-Profile)
 
-Developer Name: **Kamali** (Graphic Designer)
+Developer Name: **Kamali Thomas** (Graphic Designer)
 - Email: W0524166@campus.nscc.ca
-- Github: TODO
+- Github: [https://github.com/T-T-Thomas](T-T-Thomas-Profile)
 
 Developer Name: **Jason** (TBD)
 - Email: TODO
