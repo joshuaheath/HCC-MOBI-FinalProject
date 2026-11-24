@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             HCCMOBIFinalProjectTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Halifax Cards Committee",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
