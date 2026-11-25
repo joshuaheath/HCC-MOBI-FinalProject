@@ -188,8 +188,8 @@ Developer Name: **Zachary** (TBD)
 - Github: https://github.com/Squigglesmighty
 
 Developer Name: **Kiera** (TBD)
-- Email: TODO
-- Github: TODO
+- Email: k.junefiander@gmail.com
+- Github: [Kiera-J-Profile](https://github.com/Kiera-J)
 
 ---
 
