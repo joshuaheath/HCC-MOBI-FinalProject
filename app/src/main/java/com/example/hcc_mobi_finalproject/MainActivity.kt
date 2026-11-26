@@ -12,6 +12,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.hcc_mobi_finalproject.ui.theme.HCCMOBIFinalProjectTheme
+import com.example.hcc_mobi_finalproject.componets.RequestLocationPermission
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -19,6 +20,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             HCCMOBIFinalProjectTheme {
+                RequestLocationPermission()
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
                         name = "Halifax Cards Committee",
@@ -48,3 +50,4 @@ fun GreetingPreview() {
 
 // Zacky was here!!
 // Josh was here!!
+// Jason was here!!
