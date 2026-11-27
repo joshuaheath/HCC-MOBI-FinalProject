@@ -18,9 +18,10 @@ private val DarkColorScheme = darkColorScheme(
 )
 
 private val LightColorScheme = lightColorScheme(
-    primary = Purple40,
-    secondary = PurpleGrey40,
-    tertiary = Pink40
+    primary = Midnight_Violet,
+    secondary = Deep_Twilight,
+    tertiary = Mint_Cream
+    //HCC's color theme (took over lightcolorscheme)
 
     /* Other default colors to override
     background = Color(0xFFFFFBFE),
@@ -56,3 +57,4 @@ fun HCCMOBIFinalProjectTheme(
         content = content
     )
 }
+//Kamali was here

@@ -7,4 +7,14 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    //new colors
+    <color name="Midnight_Violet">#FF0D0221</color>
+    <color name="Deep_Twilight">#FF0F084B</color>
+    <color name="Slate_Grey">#FF6E8894</color>
+    <color name="Burnt_Rose">#FF8C2F39</color>
+    <color name="Mint_Cream">#FFF4FFFD</color>
+
+    //Kamali was here, added our colors
 </resources>
+
