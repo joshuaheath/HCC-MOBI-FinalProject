@@ -13,14 +13,20 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.hcc_mobi_finalproject.ui.theme.HCCMOBIFinalProjectTheme
 import com.example.hcc_mobi_finalproject.componets.RequestLocationPermission
+import androidx.activity.viewModels
 
 class MainActivity : ComponentActivity() {
+    private val viewModel: MainViewModel by viewModels()
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
             HCCMOBIFinalProjectTheme {
-                RequestLocationPermission()
+                RequestLocationPermission { granted ->
+                    if (granted) {
+                        viewModel.fetchLocation()
+                    }
+                }
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
                         name = "Halifax Cards Committee",
