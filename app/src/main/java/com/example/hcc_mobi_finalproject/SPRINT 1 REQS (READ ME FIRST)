@@ -1,0 +1,17 @@
+Requirements:
+1. The app has a 'launcher icon'.
+2. The app's UI implements the branding described in the team's Project Proposal: app name, colors, fonts, etc.
+3. When the app starts, the user is asked for permission to retrieve the device's location.
+4.The app's UI includes a top bar, bottom navigation bar with 1 navigation item to go to the Map Screen, and a Mapbox map.
+5. The map is centered on the device's location at an appropriate zoom level.
+A "puck" or similar is displayed to show the device location on the map.
+
+1 & 2: Kamali
+3: Jason
+4: Zack
+5: Kira
+
+Overview:Joshua Heath
+
+NOTE: Please come to me if you ever get lost. Thats what im here for as your Project manager. I know you all got this :D
+- Josh H

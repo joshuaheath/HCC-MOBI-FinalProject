@@ -184,12 +184,12 @@ Developer Name: **Jason McKenna** (TBD)
 - Github: [https://github.com/XCdAVtA](XCdAVtA-Profile)
 
 Developer Name: **Zachary** (TBD)
-- Email: TODO
-- Github: TODO
+- Email: W0293731@nscc.ca
+- Github: https://github.com/Squigglesmighty
 
 Developer Name: **Kiera** (TBD)
-- Email: TODO
-- Github: TODO
+- Email: k.junefiander@gmail.com
+- Github: [Kiera-J-Profile](https://github.com/Kiera-J)
 
 ---
 
