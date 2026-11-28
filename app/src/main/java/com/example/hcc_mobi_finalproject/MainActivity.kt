@@ -8,6 +8,9 @@ import com.example.hcc_mobi_finalproject.componets.AppNavigation
 import com.example.hcc_mobi_finalproject.componets.RequestLocationPermission
 import androidx.activity.viewModels
 import com.example.hcc_mobi_finalproject.ui.theme.HCCMOBIFinalProjectTheme
+import com.mapbox.maps.MapboxExperimental
+
+@OptIn(MapboxExperimental::class)
 
 class MainActivity : ComponentActivity() {
     private val viewModel: MainViewModel by viewModels()

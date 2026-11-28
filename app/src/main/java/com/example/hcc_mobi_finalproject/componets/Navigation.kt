@@ -11,6 +11,7 @@ package com.example.hcc_mobi_finalproject.componets
 
  */
 
+import android.annotation.SuppressLint
 import androidx.annotation.DrawableRes
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -43,7 +44,10 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import androidx.lifecycle.viewmodel.compose.viewModel
+import com.example.hcc_mobi_finalproject.MainViewModel
 import com.example.hcc_mobi_finalproject.R
+import com.example.hcc_mobi_finalproject.ui.screens.MapScreen
 import com.example.hcc_mobi_finalproject.ui.theme.HCCMOBIFinalProjectTheme
 
 /*
@@ -61,10 +65,13 @@ enum class Screen(val label: String, @DrawableRes val icon: Int) {
     Main app layout. Top bar, whatever screen is picked, then the bottom bar.
 
  */
+@SuppressLint("ViewModelConstructorInComposable")
 @Composable
 fun AppNavigation() {
     // remembers what screen your on, even if the phone gets rotated
     var currentScreen by rememberSaveable { mutableStateOf(Screen.Map) }
+
+    val viewModel: MainViewModel = viewModel()
 
     Scaffold(
         modifier = Modifier.fillMaxSize(),
@@ -83,8 +90,7 @@ fun AppNavigation() {
                 .padding(innerPadding)
         ) {
             when (currentScreen) {
-                // TODO: swap for MapScreen() once the map is done
-                Screen.Map -> MapScreenPlaceholder()
+                Screen.Map -> MapScreen(viewModel)
             }
         }
     }

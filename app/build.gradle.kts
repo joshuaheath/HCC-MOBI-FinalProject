@@ -22,7 +22,9 @@ android {
     buildTypes {
         release {
             optimization {
-                enable = false
+                enable = true
+                packageScope = setOf("androidx.**", "kotlin.**", "kotlinx.**")
+
             }
         }
     }
@@ -44,6 +46,19 @@ dependencies {
     implementation(libs.androidx.compose.ui.tooling.preview)
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
+
+    // Navigation
+    implementation("androidx.navigation:navigation-compose:2.10.2")
+
+    // Location services
+    implementation("com.google.android.gms:play-services-location:21.4.0")
+
+    implementation("com.mapbox.maps:android-ndk27:11.34.2")
+
+    // If you're using compose also add the compose extension
+    implementation("com.mapbox.extension:maps-compose-ndk27:11.34.2")
+
+    implementation("com.mapbox.maps:android-ndk27:11.34.2")
     testImplementation(libs.junit)
     androidTestImplementation(platform(libs.androidx.compose.bom))
     androidTestImplementation(libs.androidx.compose.ui.test.junit4)
