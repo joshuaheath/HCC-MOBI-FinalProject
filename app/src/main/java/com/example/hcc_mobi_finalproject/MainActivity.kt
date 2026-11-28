@@ -16,20 +16,16 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             HCCMOBIFinalProjectTheme {
+                AppNavigation()
                 RequestLocationPermission { granted ->
                     if (granted) {
                         viewModel.fetchLocation()
+                        println("=========================== CURRENT LOCATION ===========================")
+                        println(viewModel.currentLocation) // TODO, This returns as null via the debug
                     }
-                }
-                Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    Greeting(
-                        name = "Halifax Cards Committee",
-                        modifier = Modifier.padding(innerPadding)
-                    )
                 }
             }
         }
     }
 }
 
-// Josh added Token, yay
